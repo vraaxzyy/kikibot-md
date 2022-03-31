@@ -16,7 +16,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 ## My Project
 
 
-WhatsApp Bot Multi Device [`selawikwok/kikibot-Md`](https://github.com/vraaxzyy/kikibot-md)
+WhatsApp Bot Multi Device [`Vraaxzyy/kikibot-Md`](https://github.com/vraaxzyy/kikibot-md)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
