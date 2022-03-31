@@ -1,1 +1,1 @@
-exports.ind = require('./help')
+exports.ind = require('./vraamenu')
