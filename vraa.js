@@ -2532,9 +2532,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 vra.sendContact(m.chat, global.owner, m)
             }
             break
-case 'menu' 
-m.reply (`hai kak silahkan ketik .allmenu`)
-case 'allmenu':
+case 'menu':
 	await vra.send5ButGif(from, `┌── *Info User*\n│🗿Name :${pushname}\n│🗿Bio :Not Detected\n│🗿Nomor :${sender.split("@")[0]}\n│😱no beban :http://wa.me/${sender.split("@")[0]}\n│🌱User : ${isCreator ? `Owner ${ownername}` : isPremium ? `Special User ${botname}` : `${botname}`}\n│😎Status : ${isCreator ? 'Owner (100jt)' :  'Gratisan'}\n│💌Limit Harian : '5':\n│📚Pacar user : '100jt'\n└───────\n\n┌── *Info Bot*\n│⚖️Libray : Baileys\n│🤍 Name Bot : ${botname}\n│💙Creator : ${ownername}\n│🖤Author : DikaArdnt.\n│💛 User Total : ${Object.keys(global.db.data.users).length}\n└───────` + '\n' + lang.menu(prefix) , `${footer}`, [{"urlButton": {"displayText": "YouTube Owner","url": `${sc}`}},{"urlButton": {"displayText": "Instagram Owner","url": `${myweb}`}},{"quickReplyButton": {"displayText": "Sewa Bot","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}}] )
 	break
 case 'sewabot': case 'donasi': case 'sewa': case 'buypremium': case 'donate': {
