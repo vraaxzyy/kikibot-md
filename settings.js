@@ -1,8 +1,6 @@
-/*
-   * Created By Vraa  Contact Me on wa.me/6283808840711
-   * kasihan di enc dek" ke base nya aja  : github.com/DikaArdnt/Hisoka-morou
+/* kalau eror bukan dari ku ga usah tanya" ektrak ulang aja dari awal tod 
+ jangan lupa subscribe ga ada ruginya 😄
 */
-
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -23,8 +21,8 @@ global.ownernomer = '6283808840711'
 global.premium = ['6283808840711']
 global.ownername = 'Vraaa keren'
 global.botname = 'kikibot-Md'
-global.footer = '© cerator By VraaXzy`s'
-global.email = 'selawikwok@gmail.com'
+global.footer = '© Cerator By VraaXzy`s'
+global.email = 'vraakeren@gmail.com'
 global.ig = 'https://instagram.com/kikollyn'
 global.region = 'thailand'
 
