@@ -27,7 +27,7 @@ WhatsApp Bot Multi Device [`Vraaxzyy/kikibot-Md`](https://github.com/vraaxzyy/ki
 
 
 ```bash
-git clone https://github.com/selawikwok/Keyolbot-Md
+git clone https://github.com/vraaaxzzy/kikibot-Md
 cd kikibot-Md
 npm install
 ```
