@@ -32,12 +32,11 @@ cd kikibot-Md
 npm install
 ```
 
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
+## BUILDPACK HEROKU
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
 
 
 
